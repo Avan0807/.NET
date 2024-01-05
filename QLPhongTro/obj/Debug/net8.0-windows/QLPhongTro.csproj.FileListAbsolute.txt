@@ -1,0 +1,74 @@
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.exe
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.deps.json
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.runtimeconfig.json
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.dll
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.pdb
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.ChoThue.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.frm_HopDong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Login.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Menu.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyDichVu.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyKhachThue.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyLoaiPhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.SuDungDichVu.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.ThemNguoi.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.TinhTien.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.TraPhong.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Properties.Resources.resources
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.GenerateResource.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.AssemblyInfoInputs.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.AssemblyInfo.cs
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.CoreCompileInputs.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.dll
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\refint\QLPhongTro.dll
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.pdb
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.genruntimeconfig.cache
+E:\Visual studio\VS Code Community\Source .Net\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\ref\QLPhongTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.exe
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.ChoThue.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.frm_HopDong.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Login.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Menu.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyDichVu.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyKhachThue.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.QuanLyLoaiPhong.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.SuDungDichVu.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.TinhTien.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.TraPhong.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\refint\QLPhongTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.pdb
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\ref\QLPhongTro.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\Dates.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
