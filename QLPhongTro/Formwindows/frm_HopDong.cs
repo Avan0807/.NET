@@ -65,7 +65,11 @@ namespace QLPhongTro
             {
                 idKhach = int.Parse(dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString());
                 idPhong = int.Parse(dataGridView1.Rows[e.RowIndex].Cells[2].Value.ToString());
+<<<<<<< HEAD
                 db = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+                db = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
                 var h = db.Getdata("select * from KHACHTHUEPHONG where IDKhach = " + idKhach).Rows[0];
                 txtHo.Text = h["HovaTen"].ToString();
                 txtCMND.Text = h["CMND"].ToString();

@@ -71,7 +71,11 @@ namespace QLPhongTro
 
         private void ChoThue_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             db = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            db = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
             dt = db.GetTable("LoaiPhong");
 
             cbChonPhong.DataSource = dt;
@@ -148,7 +152,11 @@ namespace QLPhongTro
             KhachHangDb kh = new KhachHangDb();
             KhachHang k = new KhachHang(idPhong, txtHo.Text, dtpNgaySinh.Value.Date, txtQueQuan.Text, txtCMND.Text, cbGioiTinh.Text);
             dt = new DataTable();
+<<<<<<< HEAD
             db = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            db = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
 
 
 

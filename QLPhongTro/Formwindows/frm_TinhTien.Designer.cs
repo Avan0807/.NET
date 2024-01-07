@@ -31,7 +31,10 @@
             groupBox4 = new GroupBox();
             dataGridView1 = new DataGridView();
             dtLapHoaDon = new GroupBox();
+<<<<<<< HEAD
             lblHD = new Label();
+=======
+>>>>>>> origin/master
             btnIn = new Button();
             btnClear = new Button();
             btnTinh = new Button();
@@ -78,6 +81,10 @@
             dtNgayThue = new DateTimePicker();
             dtpNgaySinh = new DateTimePicker();
             label1 = new Label();
+<<<<<<< HEAD
+=======
+            lblHD = new Label();
+>>>>>>> origin/master
             groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             dtLapHoaDon.SuspendLayout();
@@ -132,6 +139,7 @@
             dtLapHoaDon.TabIndex = 7;
             dtLapHoaDon.TabStop = false;
             // 
+<<<<<<< HEAD
             // lblHD
             // 
             lblHD.AutoSize = true;
@@ -144,6 +152,8 @@
             lblHD.TabIndex = 73;
             lblHD.Text = "Lập hóa đơn";
             // 
+=======
+>>>>>>> origin/master
             // btnIn
             // 
             btnIn.BackColor = Color.PaleVioletRed;
@@ -661,6 +671,21 @@
             label1.Text = "Ngày lập hóa đơn:";
             label1.UseWaitCursor = true;
             // 
+<<<<<<< HEAD
+=======
+            // lblHD
+            // 
+            lblHD.AutoSize = true;
+            lblHD.BackColor = Color.PaleVioletRed;
+            lblHD.Font = new Font("Microsoft Sans Serif", 14F);
+            lblHD.ForeColor = Color.Black;
+            lblHD.Location = new Point(498, -2);
+            lblHD.Name = "lblHD";
+            lblHD.Size = new Size(117, 24);
+            lblHD.TabIndex = 73;
+            lblHD.Text = "Lập hóa đơn";
+            // 
+>>>>>>> origin/master
             // TinhTien
             // 
             AutoScaleDimensions = new SizeF(6F, 13F);
@@ -670,7 +695,11 @@
             Controls.Add(dtLapHoaDon);
             Controls.Add(groupBox4);
             Font = new Font("Microsoft Sans Serif", 8.25F);
+<<<<<<< HEAD
             FormBorderStyle = FormBorderStyle.Fixed3D;
+=======
+            FormBorderStyle = FormBorderStyle.None;
+>>>>>>> origin/master
             Name = "TinhTien";
             Text = "TinhTien";
             groupBox4.ResumeLayout(false);

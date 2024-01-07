@@ -15,7 +15,11 @@ namespace QLPhongTro.DB_connect
         DataTable dt;
         public KhachHangDb()
         {
+<<<<<<< HEAD
             oDB = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            oDB = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
         }
         public KhachHangDb(string sername, string dbname, string user = "", string pass = "")
         {
@@ -78,7 +82,11 @@ namespace QLPhongTro.DB_connect
         public DataTable loadDuLieu(String namepro, SqlParameter[] para)
         {
 
+<<<<<<< HEAD
             oDB = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            oDB = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
             oDB.cmd = new SqlCommand(namepro, oDB.conn);
             oDB.cmd.CommandType = System.Data.CommandType.StoredProcedure;
 

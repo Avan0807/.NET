@@ -422,9 +422,15 @@
             Controls.Add(groupBox1);
             Controls.Add(groupBox2);
             Font = new Font("Microsoft Sans Serif", 8.25F);
+<<<<<<< HEAD
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "TraPhong";
             Text = "frm_TraPhong";
+=======
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "TraPhong";
+            Text = "for_TraPhong";
+>>>>>>> origin/master
             groupBox2.ResumeLayout(false);
             groupBox1.ResumeLayout(false);
             groupBox3.ResumeLayout(false);

@@ -72,6 +72,7 @@ C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8
 C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-arm\native\libuv.dll
 C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-x64\native\libuv.dll
 C:\Users\ADMIN\OneDrive\Desktop\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\runtimes\win7-x86\native\libuv.dll
+<<<<<<< HEAD
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.exe
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.deps.json
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\bin\Debug\net8.0-windows\QLPhongTro.runtimeconfig.json
@@ -119,3 +120,5 @@ D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\refint\QLP
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.pdb
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\QLPhongTro.genruntimeconfig.cache
 D:\CODE\C#\QLPhongTro2\QLPhongTro\QLPhongTro\obj\Debug\net8.0-windows\ref\QLPhongTro.dll
+=======
+>>>>>>> origin/master

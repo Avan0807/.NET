@@ -24,7 +24,11 @@ namespace QLPhongTro
         }
         private void LoadDsLoaiPhong()
         {
+<<<<<<< HEAD
             db = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            db = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
             dt = db.GetTable("LoaiPhong");
             dgvQLLP.DataSource = dt;
         }

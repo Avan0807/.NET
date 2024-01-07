@@ -18,7 +18,11 @@ namespace QLPhongTro
         {
             string user = txtUsername.Text;
             string password = textPassword.Text;
+<<<<<<< HEAD
             db = new DBMain("AVAN", "QuanLyPhongTro02");
+=======
+            db = new DBMain("DESKTOP-IV5V35S\\SQLEXPRESS01", "QuanLyPhongTro02");
+>>>>>>> origin/master
             dt = db.Getdata("Select * from LOGIN where UserName = '" + user + "' and " + "PassWords = '" + password + "'");
             if(dt == null )
             {

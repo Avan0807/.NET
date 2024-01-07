@@ -47,6 +47,7 @@ namespace QLPhongTro
         {
             new frm_HopDong().ShowDialog();
         }
+<<<<<<< HEAD
 
         private void trảPhòngToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -69,5 +70,7 @@ namespace QLPhongTro
         }
 
 
+=======
+>>>>>>> origin/master
     }
 }

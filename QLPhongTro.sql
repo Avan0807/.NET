@@ -1,8 +1,12 @@
 ﻿-- Bảng LOGIN
 create database QuanLyPhongTro02
+<<<<<<< HEAD
 
 use QuanLyPhongTro02
 
+=======
+use QuanLyPhongTro02
+>>>>>>> origin/master
 CREATE TABLE LOGIN (
     UserName NVARCHAR(50) PRIMARY KEY NOT NULL,
     PassWords NVARCHAR(50) NOT NULL
@@ -11,6 +15,12 @@ CREATE TABLE LOGIN (
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> origin/master
 create table LoaiPhong(
      id int identity primary key not null,
 	 TenLoaiPhong nvarchar(50) not null,
@@ -33,8 +43,13 @@ CREATE TABLE PHONG (
     TenLoaiPhong NVARCHAR(50) NOT NULL,
     GiaPhong int NOT NULL,
     HienTrang NVARCHAR(50) NOT NULL
+<<<<<<< HEAD
 );
 
+=======
+	
+);
+>>>>>>> origin/master
 alter table Phong 
 add IdLoaiPhong int not null FOREIGN KEY (IdLoaiPhong) REFERENCES LoaiPhong(id)
 alter table Phong 
@@ -48,6 +63,23 @@ CREATE TABLE DICHVU (
     DonGia DECIMAL(10,2) NOT NULL CHECK (DonGia >= 0)
 );
 
+<<<<<<< HEAD
+=======
+-- Bảng HOPDONG
+CREATE TABLE HOPDONG (
+    IDHopDong INT IDENTITY PRIMARY KEY NOT NULL,
+    IDPhong INT NOT NULL,
+    IDKhach INT NOT NULL,
+  
+    NgayBatDau DATE NOT NULL,
+    NgayKetThuc DATE NOT NULL,
+    FOREIGN KEY (IDPhong) REFERENCES PHONG(IDPhong),
+    FOREIGN KEY (IDKhach) REFERENCES KHACHTHUEPHONG(IDKhach)
+);
+alter table KHACHTHUEPHONG
+DROP column IDPhong,IDKhach,HoVaTen,QueQuan,CMMND
+
+>>>>>>> origin/master
 
 -- Bảng KHACHTHUEPHONG
 CREATE TABLE KHACHTHUEPHONG (
@@ -60,6 +92,7 @@ CREATE TABLE KHACHTHUEPHONG (
     CMND NVARCHAR(50) NOT NULL,
     
     FOREIGN KEY (IDPhong) REFERENCES PHONG(IDPhong),
+<<<<<<< HEAD
 );
 
 alter table KHACHTHUEPHONG 
@@ -80,6 +113,13 @@ CREATE TABLE HOPDONG (
 alter table KHACHTHUEPHONG
 DROP column IDPhong,IDKhach,HoVaTen,QueQuan,CMMND
 
+=======
+   
+);
+alter table KHACHTHUEPHONG 
+add GioiTinh nvarchar(10)
+
+>>>>>>> origin/master
 -- Bảng PHONGSUDUNGDICHVU
 CREATE TABLE PHONGSUDUNGDICHVU (
     IDPhong INT NOT NULL,
@@ -101,6 +141,7 @@ CREATE TABLE HOADON (
     TongCong DECIMAL(10,2) NOT NULL,
     FOREIGN KEY (IDPhong) REFERENCES PHONG(IDPhong)
 );
+<<<<<<< HEAD
 
 select * from LOGIN
 insert into LOGIN values('truong','123123')
@@ -116,6 +157,17 @@ insert into PHONG values('101',N'Không hoạt động','3')
 insert into PHONG values('102',N'Không hoạt động','3')
 
 
+=======
+select * from LOGIN
+insert into LOGIN values('truong','123123')
+select * from KHACHTHUEPHONG
+select * from LoaiPhong where TenLoaiPhong  = 'Phong Don'
+select * from PHONG
+insert into PHONG values('100',N'Không hoạt động','2')
+select * from KHACHTHUEPHONG
+insert into PHONG values('101',N'Không hoạt động','3')
+insert into PHONG values('102',N'Không hoạt động','3')
+>>>>>>> origin/master
 update PHONG
 set HienTrang  = N'Còn trống'
 where TenLoaiPhong = '100' and  TenLoaiPhong = '101';

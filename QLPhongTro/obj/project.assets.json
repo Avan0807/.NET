@@ -7505,12 +7505,17 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\van08\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+>>>>>>> origin/master
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\CODE\\C#\\QLPhongTro2\\QLPhongTro\\QLPhongTro\\QLPhongTro.csproj",
       "projectName": "QLPhongTro",
       "projectPath": "D:\\CODE\\C#\\QLPhongTro2\\QLPhongTro\\QLPhongTro\\QLPhongTro.csproj",
@@ -7523,6 +7528,16 @@
       "configFilePaths": [
         "C:\\Users\\van08\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLPhongTro2\\QLPhongTro\\QLPhongTro\\QLPhongTro.csproj",
+      "projectName": "QLPhongTro",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLPhongTro2\\QLPhongTro\\QLPhongTro\\QLPhongTro.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\QLPhongTro2\\QLPhongTro\\QLPhongTro\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/master
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

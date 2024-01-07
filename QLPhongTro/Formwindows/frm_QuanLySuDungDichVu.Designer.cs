@@ -30,9 +30,15 @@
         {
             groupBox3 = new GroupBox();
             lvSuDungDV = new ListView();
+<<<<<<< HEAD
             columnHeader1 = new ColumnHeader();
             columnHeader2 = new ColumnHeader();
             columnHeader3 = new ColumnHeader();
+=======
+            columnHeader3 = new ColumnHeader();
+            columnHeader1 = new ColumnHeader();
+            columnHeader2 = new ColumnHeader();
+>>>>>>> origin/master
             groupBox4 = new GroupBox();
             btnTim = new Button();
             label2 = new Label();
@@ -73,6 +79,14 @@
             lvSuDungDV.UseCompatibleStateImageBehavior = false;
             lvSuDungDV.View = View.Details;
             // 
+<<<<<<< HEAD
+=======
+            // columnHeader3
+            // 
+            columnHeader3.Text = "Đơn Giá";
+            columnHeader3.Width = 150;
+            // 
+>>>>>>> origin/master
             // columnHeader1
             // 
             columnHeader1.Text = "Phòng";
@@ -83,11 +97,14 @@
             columnHeader2.Text = "Dịch Vụ";
             columnHeader2.Width = 151;
             // 
+<<<<<<< HEAD
             // columnHeader3
             // 
             columnHeader3.Text = "Đơn Giá";
             columnHeader3.Width = 150;
             // 
+=======
+>>>>>>> origin/master
             // groupBox4
             // 
             groupBox4.BackColor = Color.SkyBlue;
@@ -212,7 +229,11 @@
             Controls.Add(groupBox4);
             Controls.Add(groupBox3);
             Font = new Font("Microsoft Sans Serif", 8.25F);
+<<<<<<< HEAD
             FormBorderStyle = FormBorderStyle.Fixed3D;
+=======
+            FormBorderStyle = FormBorderStyle.None;
+>>>>>>> origin/master
             Name = "SuDungDichVu";
             Text = "frm_SuDungDichVu";
             groupBox3.ResumeLayout(false);
